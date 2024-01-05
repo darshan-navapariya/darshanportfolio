@@ -2,9 +2,9 @@
 
 <img align='right' src='https://raw.githubusercontent.com/darshan-navapariya/darshanportfolio/5836939e27fa9e0949e515e90522b1ebf15aee68/DPortfolio.png' width='200"'>
 
- [![Linkedin Badge](https://img.shields.io/badge/-DarshanNavapariya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](www.linkedin.com/in/darshan-navapariya-5589bb193)
+ [![Linkedin Badge](https://img.shields.io/badge/-Darshan%20Navapariya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/darshan-navapariya-5589bb193)
 [![Gmail Badge](https://img.shields.io/badge/-maildarshanpatel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maildarshanpatel@gmail.com)](mailto:maildarshanpatel@gmail.com)
- [![Skype Badge](https://img.shields.io/badge/-DarshanNavapariya-blue?style=flat-square&logo=skype&logoColor=white&link=)](skype:live:b26ba7b91282600c)
+ [![Skype Badge](https://img.shields.io/badge/-DarshanNavapariya-blue?style=flat-square&logo=skype&logoColor=white&link=)](https://join.skype.com/invite/yxPUlLaYAIIA)
 
 I am Darshan Patel from India ❤️, a passionate and skilled software developer hailing from the vibrant tech community of India. With a strong foundation in both JavaScript and TypeScript, Darshan specializes in building dynamic and cross-platform mobile applications using React Native.
 
