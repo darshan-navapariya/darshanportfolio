@@ -18,23 +18,6 @@ How Can I Elevate User Experiences with My Skills:
 - Proficient in continuous integration and deployment with tools like **Jenkins, GitLab, and Bitbucket**.
 - Grounded in the fundamentals of **Embedded Systems** for versatile application development.
 
-## 🏆 Achievements
-* Employee of the Year (Softholic) 
-* Employee of the month (Zeta) 
-* Head of Committees (PPSU)  
-* Management Team Lead at Voice Of Code.
-* Information Security Refresher Certified.
-* Completed Code of Conduct 2022.
-* Performance Management Certified.
-* German language A1, A2 Certified
-
-## Hello World!! 🤔
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Darshan Blog]().
-- 🎯 Portfolio site: [Portfolio]().
-- 🔔 Subscribe:- [Darshan Navapariya]().
-- ⚡ Fun fact: Internet users blink less than usual.
-
 ## ⚡ TechStacks
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -60,3 +43,21 @@ How Can I Elevate User Experiences with My Skills:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+
+## 🏆 Achievements
+* Employee of the Year (Softholic) 
+* Employee of the month (Zeta) 
+* Head of Committees (PPSU)  
+* Management Team Lead at Voice Of Code.
+* Information Security Refresher Certified.
+* Completed Code of Conduct 2022.
+* Performance Management Certified.
+* German language A1, A2 Certified
+
+## Hello World!! 🤔
+- 💬 Ask me about anything and everything.
+- 📫 Read my blogs: [Darshan Blog]().
+- 🎯 Portfolio site: [Portfolio]().
+- 🔔 Subscribe:- [Darshan Navapariya]().
+- ⚡ Fun fact: Internet users blink less than usual.
