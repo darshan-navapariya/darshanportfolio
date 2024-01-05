@@ -32,9 +32,9 @@ How Can I Elevate User Experiences with My Skills:
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
+- 📫 Read my blogs: [Darshan Blog]().
+- 🎯 Portfolio site: [Portfolio]().
+- 🔔 Subscribe:- [Darshan Navapariya]().
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ## ⚡ TechStacks
