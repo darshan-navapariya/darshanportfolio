@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://raw.githubusercontent.com/darshan-navapariya/darshanportfolio/5836939e27fa9e0949e515e90522b1ebf15aee68/DPortfolio.png' width='200"'>
+<img align='right' src='https://raw.githubusercontent.com/darshan-navapariya/darshanportfolio/a100aa7c41b3133dad714f8a2005579694ae1a15/DPortfolio.png' width='200"'>
 
  [![Linkedin Badge](https://img.shields.io/badge/-Darshan%20Navapariya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/darshan-navapariya-5589bb193)
 [![Gmail Badge](https://img.shields.io/badge/-maildarshanpatel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maildarshanpatel@gmail.com)](mailto:maildarshanpatel@gmail.com)
